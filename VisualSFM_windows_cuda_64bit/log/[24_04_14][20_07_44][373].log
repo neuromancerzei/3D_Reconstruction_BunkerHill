@@ -1,0 +1,133 @@
+0: 06
+image_size:	3024x4032
+Loading image pixel data ...done in 0s
+0: 03
+image_size:	3024x4032
+Loading image pixel data ...done in 0s
+0: 02
+image_size:	3024x4032
+2: 05
+image_size:	3024x4032
+4: 07
+image_size:	3024x4032
+5: 08
+image_size:	3024x4032
+6: 10
+image_size:	3024x4032
+7: 11
+image_size:	3024x4032
+Loading image pixel data ...done in 1s
+
+Compute Missing Pairwise Matching, begin...
+********* WARNING ***********
+More than 279MB of graphic memory may be allocated
+under the default settings. If the program halts here,
+adjust parameters to save memory and rerun the task: 
+    [Tools->Enable GPU->Set Maximum DIM]
+Note some octaves may be automatically skipped
+SIFT: 0000, 3024x4032, 	5065, 2.36sec
+SIFT: 0001, 3024x4032, 	2517, 0.02sec
+SIFT: 0002, 3024x4032, 	2892, 0.02sec
+SIFT: 0003, 3024x4032, 	8178, 0.04sec
+SIFT: 0004, 3024x4032, 	8077, 0.04sec
+SIFT: 0005, 3024x4032, 	3414, 0.02sec
+SIFT: 0006, 3024x4032, 	2550, 0.02sec
+SIFT: 0007, 3024x4032, 	3150, 0.02sec
+
+###########-------timing------#########
+8 Feature Detection finished, 3 sec used
+#############################
+
+28 pairs to compute match
+NOTE: using 2 matching workers
+0000 and 0005: 50 matches, 0.01sec, #1
+0000 and 0005: [28/50], H[21], 0.00sec
+0001 and 0005: 31 matches, 0.01sec, #1
+0001 and 0005: [12/31], H[6], 0.01sec
+0002 and 0005: 27 matches, 0.01sec, #1
+0002 and 0005: [11/27], H[5], 0.01sec
+0003 and 0005: 47 matches, 0.02sec, #1
+0003 and 0005: [22/47], H[14], 0.01sec
+0000 and 0001: 16 matches, 0.10sec, #0
+0004 and 0005: 37 matches, 0.01sec, #1
+0000 and 0002: 23 matches, 0.01sec, #0
+0004 and 0005: [13/37], H[7], 0.01sec
+0001 and 0002: 115 matches, 0.01sec, #0
+0000 and 0006: 14 matches, 0.01sec, #1
+0001 and 0002: [83/115], H[54], 0.00sec
+0001 and 0006: 22 matches, 0.01sec, #1
+0000 and 0003: 169 matches, 0.01sec, #0
+0002 and 0006: 28 matches, 0.01sec, #1
+0000 and 0003: [141/169], H[64], 0.00sec
+0002 and 0006: [10/28], H[5], 0.01sec
+0001 and 0003: 27 matches, 0.01sec, #0
+0003 and 0006: 21 matches, 0.01sec, #1
+0001 and 0003: [11/27], H[6], 0.01sec
+0002 and 0003: 19 matches, 0.01sec, #0
+0004 and 0006: 36 matches, 0.01sec, #1
+0004 and 0006: [10/36], H[0], 0.01sec
+0000 and 0004: 39 matches, 0.01sec, #0
+0005 and 0006: 29 matches, 0.01sec, #1
+0000 and 0004: [12/39], H[5], 0.01sec
+0005 and 0006: [12/29], H[7], 0.01sec
+0001 and 0004: 28 matches, 0.01sec, #0
+0000 and 0007: 22 matches, 0.01sec, #1
+0001 and 0004: [11/28], H[6], 0.01sec
+0001 and 0007: 18 matches, 0.01sec, #1
+0002 and 0004: 19 matches, 0.01sec, #0
+0002 and 0007: 22 matches, 0.01sec, #1
+0003 and 0004: 28 matches, 0.01sec, #0
+0003 and 0007: 16 matches, 0.01sec, #1
+0003 and 0004: [11/28], H[5], 0.01sec
+0005 and 0007: 25 matches, 0.00sec, #0
+0004 and 0007: 38 matches, 0.01sec, #1
+0004 and 0007: [9/38], H[0], 0.01sec
+0005 and 0007: [11/25], H[6], 0.01sec
+0006 and 0007: 36 matches, 0.01sec, #1
+0006 and 0007: [11/36], H[5], 0.01sec
+
+###########-------timing------#########
+28 Image Match finished, 0 sec used
+#############################
+
+----------------------------------------------------------------
+Compute Missing Pairwise Matching, finished
+Totally 3.000 seconds used
+
+
+Run full 3D reconstruction, begin...
+4 pairs have two-view models
+17 pairs have fundamental matrices
+Initialize with 06 and 05
+141 3D points initialized from two images
+PBA library version = 105
+PBA: 141 3D pts, 2 cams and 282 projs...
+PBA: 1.876 -> 0.629 (73 LMs in 1.35sec)
+Focal Length : [4838.400]->[4756.816]
+Focal Length : [4838.400]->[5034.545]
+END: No more images to add [0 projs]
+
+#############################
+Initialize with 03 and 02
+Failed to initialize with the chosen pair
+Failed to find two images for initialization
+Resuming SfM finished, 0 sec used
+
+---------------------------------------------------
+2 cams, 142 pts (3+: 0)
+282 projections (3+: 0)
+---------------------------------------------------
+1 model(s) reconstructed from 8 images;
+2 modeled; 0 reused; 0 EXIF; 
+0MB(0) used to store feature location.
+---------------------------------------------------
+
+########-------timing------#########
+Structure-From-Motion finished, 2 sec used
+1.4(1.4) seconds on Bundle Adjustment (+)
+1.4(1.4) seconds on Bundle Adjustment (*)
+#############################
+----------------------------------------------------------------
+Run full 3D reconstruction, finished
+Totally 2.000 seconds used
+
