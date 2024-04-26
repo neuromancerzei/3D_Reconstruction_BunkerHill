@@ -1,0 +1,8 @@
+./monument001.jpg
+./monument002.jpg
+./monument003.jpg
+./monument004.jpg
+./monument005.jpg
+./monument006.jpg
+./monument007.jpg
+./monument008.jpg

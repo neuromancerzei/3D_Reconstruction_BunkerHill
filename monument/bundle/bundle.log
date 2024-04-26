@@ -1,0 +1,1325 @@
+[OnInit] Running program ../../bin/bundler
+Loading images from file 'list.txt'
+[BundlerApp::OnInit] Processing options...
+[BundlerApp::OnInit] Loading frame...
+[BundlerApp::OnInit] Loading images...
+[LoadMatchTable] Loading matches
+[PruneDoubleMatches] Pruned[1,2] = 0 / 236
+[PruneDoubleMatches] Pruned[4,7] = 0 / 377
+[PruneDoubleMatches] Pruned[5,6] = 0 / 275
+[LoadKeys] Loading keys...
+[LoadKeys] Loading keys from image 0...
+[GetJPEGDimensions] File ./monument001.jpg: ( 225 , 225 )
+[LoadKeys] Loading keys from image 1...
+[GetJPEGDimensions] File ./monument002.jpg: ( 322 , 157 )
+[LoadKeys] Loading keys from image 2...
+[GetJPEGDimensions] File ./monument003.jpg: ( 322 , 157 )
+[LoadKeys] Loading keys from image 3...
+[GetJPEGDimensions] File ./monument004.jpg: ( 275 , 183 )
+[LoadKeys] Loading keys from image 4...
+[GetJPEGDimensions] File ./monument005.jpg: ( 183 , 275 )
+[LoadKeys] Loading keys from image 5...
+[GetJPEGDimensions] File ./monument006.jpg: ( 248 , 203 )
+[LoadKeys] Loading keys from image 6...
+[GetJPEGDimensions] File ./monument007.jpg: ( 248 , 203 )
+[LoadKeys] Loading keys from image 7...
+[GetJPEGDimensions] File ./monument008.jpg: ( 183 , 275 )
+[LoadKeys] Loaded keys in 0.011s
+Error [4] in call to dgesv
+x is within tolerance
+   1.562500e-02  -2.348658e+12  -1.039328e+14 
+   2.348658e+12  -1.220703e-03  -2.002771e+13 
+   1.039328e+14  2.002771e+13  3.000000e+00 
+   2.343750e-02  -2.348658e+12  -1.039328e+14 
+   2.348658e+12  4.882812e-04  -2.002771e+13 
+   1.039328e+14  2.002771e+13  2.984375e+00 
+Inliers[1,2] = 236 out of 236
+Inliers[1,2] = 236 out of 236
+Error [4] in call to dgesv
+Error [8] in call to dgesv
+Error [7] in call to dgesv
+Error [4] in call to dgesv
+Error [7] in call to dgesv
+Error [8] in call to dgesv
+Error [8] in call to dgesv
+Error [8] in call to dgesv
+Error [4] in call to dgesv
+Error [8] in call to dgesv
+Error [4] in call to dgesv
+Error [7] in call to dgesv
+x is within tolerance
+   2.389143e-03  1.301046e+14  7.206310e+15 
+   -1.301046e+14  7.421875e-02  1.382707e+15 
+   -7.206310e+15  -1.382707e+15  -1.203125e+00 
+   -3.333184e-03  1.301046e+14  7.206310e+15 
+   -1.301046e+14  -7.421875e-02  1.382707e+15 
+   -7.206310e+15  -1.382707e+15  -5.820312e-01 
+Inliers[4,7] = 377 out of 377
+Inliers[4,7] = 377 out of 377
+Error [8] in call to dgesv
+Error [8] in call to dgesv
+Error [8] in call to dgesv
+Error [8] in call to dgesv
+Error [7] in call to dgesv
+Error [4] in call to dgesv
+Error [4] in call to dgesv
+x is within tolerance
+   -1.911676e-05  3.616234e-02  -8.222815e+11 
+   2.794527e-07  1.477280e-10  1.555486e+15 
+   8.222815e+11  -1.555486e+15  -1.911654e-05 
+   -1.477279e-10  -7.809386e-14  -8.222815e+11 
+   2.794527e-07  1.477280e-10  1.555486e+15 
+   8.222815e+11  -1.555486e+15  5.286328e-04 
+Inliers[5,6] = 275 out of 275
+Inliers[5,6] = 275 out of 275
+[LeastSquaresFit] Residual error (before) is 2.746e-24
+pre:    1.000000e+00  8.202176e-16  4.263256e-14 
+   -3.569668e-17  1.000000e+00  -2.131628e-14 
+   3.516274e-19  -4.182672e-18  1.000000e+00 
+post:    1.000000e+00  8.202176e-16  4.263256e-14 
+   -3.569668e-17  1.000000e+00  -2.131628e-14 
+   3.516274e-19  -4.182672e-18  1.000000e+00 
+[LeastSquaresFit] Residual error (after) is 1.769e-25
+Inliers[1,2] = 236 out of 236
+Inliers[1,2] = 236 out of 236
+Ratio[1,2] = 1.000e+00
+   1.000000e+00  8.202176e-16  4.263256e-14 
+   -3.569668e-17  1.000000e+00  -2.131628e-14 
+   3.516274e-19  -4.182672e-18  1.000000e+00 
+[LeastSquaresFit] Residual error (before) is 2.917e-21
+pre:    1.000000e+00  -1.243669e-16  3.552714e-15 
+   3.478938e-17  1.000000e+00  1.065814e-14 
+   1.343469e-19  1.417230e-18  1.000000e+00 
+post:    1.000000e+00  -1.243669e-16  3.552714e-15 
+   3.478938e-17  1.000000e+00  1.065814e-14 
+   1.343469e-19  1.417230e-18  1.000000e+00 
+[LeastSquaresFit] Residual error (after) is 1.220e-25
+Inliers[4,7] = 377 out of 377
+Inliers[4,7] = 377 out of 377
+Ratio[4,7] = 1.000e+00
+   1.000000e+00  -1.243669e-16  3.552714e-15 
+   3.478938e-17  1.000000e+00  1.065814e-14 
+   1.343469e-19  1.417230e-18  1.000000e+00 
+[LeastSquaresFit] Residual error (before) is 8.110e-24
+pre:    1.000000e+00  -7.042610e-17  -6.217249e-15 
+   3.151023e-19  1.000000e+00  -3.552714e-14 
+   -1.054786e-18  8.426123e-18  1.000000e+00 
+post:    1.000000e+00  -7.042610e-17  -6.217249e-15 
+   3.151023e-19  1.000000e+00  -3.552714e-14 
+   -1.054786e-18  8.426123e-18  1.000000e+00 
+[LeastSquaresFit] Residual error (after) is 7.089e-25
+Inliers[5,6] = 275 out of 275
+Inliers[5,6] = 275 out of 275
+Ratio[5,6] = 1.000e+00
+   1.000000e+00  -7.042610e-17  -6.217249e-15 
+   3.151023e-19  1.000000e+00  -3.552714e-14 
+   -1.054786e-18  8.426123e-18  1.000000e+00 
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+Point with 2 projections found
+[ComputeTracks] Found 888 points
+[ComputeTracks] Clearing match lists...
+[ComputeTracks] Creating consistent match lists...
+[ComputeTracks] Done!
+num_nbrs[0] = 0
+num_nbrs[1] = 1
+num_nbrs[2] = 1
+num_nbrs[3] = 0
+num_nbrs[4] = 1
+num_nbrs[5] = 1
+num_nbrs[6] = 1
+num_nbrs[7] = 1
+[WriteGeometricConstraints] Writing 6 transforms
+  Avg. proj error [0 projections] = -nan
+[BundleAdjust] Error: no good camera pairs found!
+[BundleAdjust] Trying a backup approach...
+[BundleAdjust] Adjusting cameras 1 and 2 (score = 0.000)
+[BaseApp::SetTracks] Setting tracks for image 1...
+[BaseApp::SetTracks] Finished in 0.000s
+[BaseApp::SetTracks] Setting tracks for image 2...
+[BaseApp::SetTracks] Finished in 0.000s
+[BundleAdjust] Adding initial matches...
+  Adding match 0 ==> 0 -- 45.220 41.800 ==> 45.220 41.800 [0]
+  Adding match 1 ==> 1 -- 45.220 41.800 ==> 45.220 41.800 [1]
+  Adding match 2 ==> 2 -- 95.040 -49.360 ==> 95.040 -49.360 [2]
+  Adding match 3 ==> 3 -- -80.770 -50.030 ==> -80.770 -50.030 [3]
+  Adding match 4 ==> 4 -- 60.430 -42.550 ==> 60.430 -42.550 [4]
+  Adding match 5 ==> 5 -- -7.460 -44.390 ==> -7.460 -44.390 [5]
+  Adding match 6 ==> 6 -- -139.110 -18.670 ==> -139.110 -18.670 [6]
+  Adding match 7 ==> 7 -- -21.890 46.040 ==> -21.890 46.040 [7]
+  Adding match 8 ==> 8 -- -36.820 -49.600 ==> -36.820 -49.600 [8]
+  Adding match 9 ==> 9 -- -129.450 -42.590 ==> -129.450 -42.590 [9]
+  Adding match 10 ==> 10 -- 137.520 -13.990 ==> 137.520 -13.990 [10]
+  Adding match 11 ==> 11 -- -22.210 -12.310 ==> -22.210 -12.310 [11]
+  Adding match 12 ==> 12 -- 25.200 -50.750 ==> 25.200 -50.750 [12]
+  Adding match 13 ==> 13 -- -46.910 -55.380 ==> -46.910 -55.380 [13]
+  Adding match 14 ==> 14 -- -46.910 -55.380 ==> -46.910 -55.380 [14]
+  Adding match 15 ==> 15 -- -55.690 -43.020 ==> -55.690 -43.020 [15]
+  Adding match 16 ==> 16 -- 115.970 -29.160 ==> 115.970 -29.160 [16]
+  Adding match 17 ==> 17 -- -110.250 2.210 ==> -110.250 2.210 [17]
+  Adding match 18 ==> 18 -- 122.530 -39.670 ==> 122.530 -39.670 [18]
+  Adding match 19 ==> 19 -- 78.170 -35.710 ==> 78.170 -35.710 [19]
+  Adding match 20 ==> 20 -- -144.810 -32.740 ==> -144.810 -32.740 [20]
+  Adding match 21 ==> 21 -- 93.160 -27.170 ==> 93.160 -27.170 [21]
+  Adding match 22 ==> 22 -- -92.740 -68.430 ==> -92.740 -68.430 [22]
+  Adding match 23 ==> 23 -- -31.620 -65.880 ==> -31.620 -65.880 [23]
+  Adding match 24 ==> 24 -- 78.150 -58.840 ==> 78.150 -58.840 [24]
+  Adding match 25 ==> 25 -- 47.730 -58.510 ==> 47.730 -58.510 [25]
+  Adding match 26 ==> 26 -- 14.280 -56.690 ==> 14.280 -56.690 [26]
+  Adding match 27 ==> 27 -- -27.300 -46.270 ==> -27.300 -46.270 [27]
+  Adding match 28 ==> 28 -- 94.410 -41.640 ==> 94.410 -41.640 [28]
+  Adding match 29 ==> 29 -- 94.410 -41.640 ==> 94.410 -41.640 [29]
+  Adding match 30 ==> 30 -- 122.170 -39.070 ==> 122.170 -39.070 [30]
+  Adding match 31 ==> 31 -- 78.200 -36.670 ==> 78.200 -36.670 [31]
+  Adding match 32 ==> 32 -- -71.340 -32.330 ==> -71.340 -32.330 [32]
+  Adding match 33 ==> 33 -- 93.020 -27.210 ==> 93.020 -27.210 [33]
+  Adding match 34 ==> 34 -- 93.020 -27.210 ==> 93.020 -27.210 [34]
+  Adding match 35 ==> 35 -- -134.610 -22.530 ==> -134.610 -22.530 [35]
+  Adding match 36 ==> 36 -- -146.550 20.490 ==> -146.550 20.490 [36]
+  Adding match 37 ==> 37 -- 44.170 -57.970 ==> 44.170 -57.970 [37]
+  Adding match 38 ==> 38 -- -24.910 -58.130 ==> -24.910 -58.130 [38]
+  Adding match 39 ==> 39 -- -24.910 -58.130 ==> -24.910 -58.130 [39]
+  Adding match 40 ==> 40 -- 112.240 -55.450 ==> 112.240 -55.450 [40]
+  Adding match 41 ==> 41 -- -57.200 -50.530 ==> -57.200 -50.530 [41]
+  Adding match 42 ==> 42 -- -57.200 -50.530 ==> -57.200 -50.530 [42]
+  Adding match 43 ==> 43 -- 114.550 -48.060 ==> 114.550 -48.060 [43]
+  Adding match 44 ==> 44 -- 146.680 -43.880 ==> 146.680 -43.880 [44]
+  Adding match 45 ==> 45 -- -48.800 -43.840 ==> -48.800 -43.840 [45]
+  Adding match 46 ==> 46 -- 77.790 -38.550 ==> 77.790 -38.550 [46]
+  Adding match 47 ==> 47 -- -135.020 -23.170 ==> -135.020 -23.170 [47]
+  Adding match 48 ==> 48 -- -92.730 -22.710 ==> -92.730 -22.710 [48]
+  Adding match 49 ==> 49 -- 141.480 -21.060 ==> 141.480 -21.060 [49]
+  Adding match 50 ==> 50 -- -151.030 -15.890 ==> -151.030 -15.890 [50]
+  Adding match 51 ==> 51 -- -59.860 -61.890 ==> -59.860 -61.890 [51]
+  Adding match 52 ==> 52 -- -43.800 -59.790 ==> -43.800 -59.790 [52]
+  Adding match 53 ==> 53 -- -95.100 -60.210 ==> -95.100 -60.210 [53]
+  Adding match 54 ==> 54 -- 50.150 -58.550 ==> 50.150 -58.550 [54]
+  Adding match 55 ==> 55 -- 99.780 -57.170 ==> 99.780 -57.170 [55]
+  Adding match 56 ==> 56 -- 148.110 -55.650 ==> 148.110 -55.650 [56]
+  Adding match 57 ==> 57 -- 124.420 -56.010 ==> 124.420 -56.010 [57]
+  Adding match 58 ==> 58 -- -72.430 -55.100 ==> -72.430 -55.100 [58]
+  Adding match 59 ==> 59 -- -117.660 -54.080 ==> -117.660 -54.080 [59]
+  Adding match 60 ==> 60 -- -18.270 -52.090 ==> -18.270 -52.090 [60]
+  Adding match 61 ==> 61 -- 132.860 -50.240 ==> 132.860 -50.240 [61]
+  Adding match 62 ==> 62 -- 6.940 -47.850 ==> 6.940 -47.850 [62]
+  Adding match 63 ==> 63 -- 6.940 -47.850 ==> 6.940 -47.850 [63]
+  Adding match 64 ==> 64 -- 82.760 -43.220 ==> 82.760 -43.220 [64]
+  Adding match 65 ==> 65 -- 16.070 -36.590 ==> 16.070 -36.590 [65]
+  Adding match 66 ==> 66 -- -69.550 -34.280 ==> -69.550 -34.280 [66]
+  Adding match 67 ==> 67 -- 142.330 -28.040 ==> 142.330 -28.040 [67]
+  Adding match 68 ==> 68 -- -142.810 -23.480 ==> -142.810 -23.480 [68]
+  Adding match 69 ==> 69 -- -142.810 -23.480 ==> -142.810 -23.480 [69]
+  Adding match 70 ==> 70 -- 98.660 -22.070 ==> 98.660 -22.070 [70]
+  Adding match 71 ==> 71 -- 125.180 -6.440 ==> 125.180 -6.440 [71]
+  Adding match 72 ==> 72 -- -98.710 -4.800 ==> -98.710 -4.800 [72]
+  Adding match 73 ==> 73 -- 132.660 -3.950 ==> 132.660 -3.950 [73]
+  Adding match 74 ==> 74 -- -148.130 4.960 ==> -148.130 4.960 [74]
+  Adding match 75 ==> 75 -- 134.920 -67.080 ==> 134.920 -67.080 [75]
+  Adding match 76 ==> 76 -- 12.050 -63.780 ==> 12.050 -63.780 [76]
+  Adding match 77 ==> 77 -- -59.820 -61.770 ==> -59.820 -61.770 [77]
+  Adding match 78 ==> 78 -- -35.720 -59.430 ==> -35.720 -59.430 [78]
+  Adding match 79 ==> 79 -- 0.050 -59.130 ==> 0.050 -59.130 [79]
+  Adding match 80 ==> 80 -- 133.940 -58.640 ==> 133.940 -58.640 [80]
+  Adding match 81 ==> 81 -- 133.940 -58.640 ==> 133.940 -58.640 [81]
+  Adding match 82 ==> 82 -- -154.600 -57.270 ==> -154.600 -57.270 [82]
+  Adding match 83 ==> 83 -- 35.860 -55.950 ==> 35.860 -55.950 [83]
+  Adding match 84 ==> 84 -- 148.050 -55.600 ==> 148.050 -55.600 [84]
+  Adding match 85 ==> 85 -- 148.050 -55.600 ==> 148.050 -55.600 [85]
+  Adding match 86 ==> 86 -- 79.330 -54.900 ==> 79.330 -54.900 [86]
+  Adding match 87 ==> 87 -- 57.310 -54.740 ==> 57.310 -54.740 [87]
+  Adding match 88 ==> 88 -- -126.440 -53.910 ==> -126.440 -53.910 [88]
+  Adding match 89 ==> 89 -- 40.980 -53.040 ==> 40.980 -53.040 [89]
+  Adding match 90 ==> 90 -- -11.220 -52.550 ==> -11.220 -52.550 [90]
+  Adding match 91 ==> 91 -- -115.720 -51.570 ==> -115.720 -51.570 [91]
+  Adding match 92 ==> 92 -- 142.150 -50.940 ==> 142.150 -50.940 [92]
+  Adding match 93 ==> 93 -- 142.150 -50.940 ==> 142.150 -50.940 [93]
+  Adding match 94 ==> 94 -- 150.390 -50.420 ==> 150.390 -50.420 [94]
+  Adding match 95 ==> 95 -- 74.460 -49.890 ==> 74.460 -49.890 [95]
+  Adding match 96 ==> 96 -- -50.690 -50.050 ==> -50.690 -50.050 [96]
+  Adding match 97 ==> 97 -- 154.640 -47.290 ==> 154.640 -47.290 [97]
+  Adding match 98 ==> 98 -- 74.820 -44.940 ==> 74.820 -44.940 [98]
+  Adding match 99 ==> 99 -- 103.690 -44.570 ==> 103.690 -44.570 [99]
+  Adding match 100 ==> 100 -- -33.390 -39.480 ==> -33.390 -39.480 [100]
+  Adding match 101 ==> 101 -- -141.280 -39.040 ==> -141.280 -39.040 [101]
+  Adding match 102 ==> 102 -- -38.370 -37.060 ==> -38.370 -37.060 [102]
+  Adding match 103 ==> 103 -- -38.370 -37.060 ==> -38.370 -37.060 [103]
+  Adding match 104 ==> 104 -- -46.380 -37.010 ==> -46.380 -37.010 [104]
+  Adding match 105 ==> 105 -- 113.930 -35.400 ==> 113.930 -35.400 [105]
+  Adding match 106 ==> 106 -- -69.610 -34.480 ==> -69.610 -34.480 [106]
+  Adding match 107 ==> 107 -- -136.170 -26.320 ==> -136.170 -26.320 [107]
+  Adding match 108 ==> 108 -- 92.520 -24.190 ==> 92.520 -24.190 [108]
+  Adding match 109 ==> 109 -- 92.520 -24.190 ==> 92.520 -24.190 [109]
+  Adding match 110 ==> 110 -- -105.110 -5.500 ==> -105.110 -5.500 [110]
+  Adding match 111 ==> 111 -- -105.110 -5.500 ==> -105.110 -5.500 [111]
+  Adding match 112 ==> 112 -- 151.910 -3.760 ==> 151.910 -3.760 [112]
+  Adding match 113 ==> 113 -- 132.930 -3.510 ==> 132.930 -3.510 [113]
+  Adding match 114 ==> 114 -- -144.930 0.220 ==> -144.930 0.220 [114]
+  Adding match 115 ==> 115 -- -127.170 -73.410 ==> -127.170 -73.410 [115]
+  Adding match 116 ==> 116 -- -113.740 -70.720 ==> -113.740 -70.720 [116]
+  Adding match 117 ==> 117 -- 156.890 -63.190 ==> 156.890 -63.190 [117]
+  Adding match 118 ==> 118 -- 132.100 -62.960 ==> 132.100 -62.960 [118]
+  Adding match 119 ==> 119 -- 90.790 -61.950 ==> 90.790 -61.950 [119]
+  Adding match 120 ==> 120 -- -47.410 -61.430 ==> -47.410 -61.430 [120]
+  Adding match 121 ==> 121 -- 58.160 -60.740 ==> 58.160 -60.740 [121]
+  Adding match 122 ==> 122 -- 149.670 -59.770 ==> 149.670 -59.770 [122]
+  Adding match 123 ==> 123 -- 62.990 -57.050 ==> 62.990 -57.050 [123]
+  Adding match 124 ==> 124 -- 75.700 -56.400 ==> 75.700 -56.400 [124]
+  Adding match 125 ==> 125 -- 75.700 -56.400 ==> 75.700 -56.400 [125]
+  Adding match 126 ==> 126 -- -52.730 -56.770 ==> -52.730 -56.770 [126]
+  Adding match 127 ==> 127 -- -153.430 -53.800 ==> -153.430 -53.800 [127]
+  Adding match 128 ==> 128 -- -105.280 -50.510 ==> -105.280 -50.510 [128]
+  Adding match 129 ==> 129 -- -98.070 -49.910 ==> -98.070 -49.910 [129]
+  Adding match 130 ==> 130 -- 96.980 -49.620 ==> 96.980 -49.620 [130]
+  Adding match 131 ==> 131 -- -92.530 -45.820 ==> -92.530 -45.820 [131]
+  Adding match 132 ==> 132 -- 133.050 -45.100 ==> 133.050 -45.100 [132]
+  Adding match 133 ==> 133 -- -29.090 -43.050 ==> -29.090 -43.050 [133]
+  Adding match 134 ==> 134 -- 90.070 -41.850 ==> 90.070 -41.850 [134]
+  Adding match 135 ==> 135 -- 19.030 -41.580 ==> 19.030 -41.580 [135]
+  Adding match 136 ==> 136 -- 95.350 -40.460 ==> 95.350 -40.460 [136]
+  Adding match 137 ==> 137 -- 95.350 -40.460 ==> 95.350 -40.460 [137]
+  Adding match 138 ==> 138 -- -145.510 -38.330 ==> -145.510 -38.330 [138]
+  Adding match 139 ==> 139 -- 120.360 -33.240 ==> 120.360 -33.240 [139]
+  Adding match 140 ==> 140 -- 16.820 -32.640 ==> 16.820 -32.640 [140]
+  Adding match 141 ==> 141 -- -151.700 -31.950 ==> -151.700 -31.950 [141]
+  Adding match 142 ==> 142 -- -151.700 -31.950 ==> -151.700 -31.950 [142]
+  Adding match 143 ==> 143 -- 10.000 -29.430 ==> 10.000 -29.430 [143]
+  Adding match 144 ==> 144 -- 97.360 -27.490 ==> 97.360 -27.490 [144]
+  Adding match 145 ==> 145 -- -96.360 -15.380 ==> -96.360 -15.380 [145]
+  Adding match 146 ==> 146 -- -96.960 -9.950 ==> -96.960 -9.950 [146]
+  Adding match 147 ==> 147 -- 155.770 -7.410 ==> 155.770 -7.410 [147]
+  Adding match 148 ==> 148 -- -112.840 -6.920 ==> -112.840 -6.920 [148]
+  Adding match 149 ==> 149 -- 143.710 0.110 ==> 143.710 0.110 [149]
+  Adding match 150 ==> 150 -- -152.900 2.620 ==> -152.900 2.620 [150]
+  Adding match 151 ==> 151 -- -146.870 17.740 ==> -146.870 17.740 [151]
+  Adding match 152 ==> 152 -- 28.230 23.930 ==> 28.230 23.930 [152]
+  Adding match 153 ==> 153 -- 25.870 -73.060 ==> 25.870 -73.060 [153]
+  Adding match 154 ==> 154 -- -32.660 -71.990 ==> -32.660 -71.990 [154]
+  Adding match 155 ==> 155 -- 67.460 -70.010 ==> 67.460 -70.010 [155]
+  Adding match 156 ==> 156 -- 73.150 -69.550 ==> 73.150 -69.550 [156]
+  Adding match 157 ==> 157 -- -139.790 -67.670 ==> -139.790 -67.670 [157]
+  Adding match 158 ==> 158 -- -139.790 -67.670 ==> -139.790 -67.670 [158]
+  Adding match 159 ==> 159 -- 21.570 -65.980 ==> 21.570 -65.980 [159]
+  Adding match 160 ==> 160 -- 58.010 -63.990 ==> 58.010 -63.990 [160]
+  Adding match 161 ==> 161 -- 22.410 -63.350 ==> 22.410 -63.350 [161]
+  Adding match 162 ==> 162 -- -22.830 -63.620 ==> -22.830 -63.620 [162]
+  Adding match 163 ==> 163 -- -22.830 -63.620 ==> -22.830 -63.620 [163]
+  Adding match 164 ==> 164 -- 15.070 -62.920 ==> 15.070 -62.920 [164]
+  Adding match 165 ==> 165 -- 1.240 -62.510 ==> 1.240 -62.510 [165]
+  Adding match 166 ==> 166 -- -8.950 -60.670 ==> -8.950 -60.670 [166]
+  Adding match 167 ==> 167 -- 54.730 -59.820 ==> 54.730 -59.820 [167]
+  Adding match 168 ==> 168 -- -32.210 -59.360 ==> -32.210 -59.360 [168]
+  Adding match 169 ==> 169 -- -32.210 -59.360 ==> -32.210 -59.360 [169]
+  Adding match 170 ==> 170 -- -16.880 -58.770 ==> -16.880 -58.770 [170]
+  Adding match 171 ==> 171 -- -88.230 -59.100 ==> -88.230 -59.100 [171]
+  Adding match 172 ==> 172 -- 120.070 -57.940 ==> 120.070 -57.940 [172]
+  Adding match 173 ==> 173 -- 117.520 -57.990 ==> 117.520 -57.990 [173]
+  Adding match 174 ==> 174 -- 117.520 -57.990 ==> 117.520 -57.990 [174]
+  Adding match 175 ==> 175 -- -56.130 -57.970 ==> -56.130 -57.970 [175]
+  Adding match 176 ==> 176 -- -62.220 -57.790 ==> -62.220 -57.790 [176]
+  Adding match 177 ==> 177 -- 83.830 -57.380 ==> 83.830 -57.380 [177]
+  Adding match 178 ==> 178 -- 83.830 -57.380 ==> 83.830 -57.380 [178]
+  Adding match 179 ==> 179 -- 18.990 -56.950 ==> 18.990 -56.950 [179]
+  Adding match 180 ==> 180 -- 12.430 -56.240 ==> 12.430 -56.240 [180]
+  Adding match 181 ==> 181 -- -134.210 -55.230 ==> -134.210 -55.230 [181]
+  Adding match 182 ==> 182 -- 155.610 -55.210 ==> 155.610 -55.210 [182]
+  Adding match 183 ==> 183 -- 155.610 -55.210 ==> 155.610 -55.210 [183]
+  Adding match 184 ==> 184 -- 85.950 -55.190 ==> 85.950 -55.190 [184]
+  Adding match 185 ==> 185 -- -85.030 -55.210 ==> -85.030 -55.210 [185]
+  Adding match 186 ==> 186 -- -113.170 -54.360 ==> -113.170 -54.360 [186]
+  Adding match 187 ==> 187 -- 142.580 -53.870 ==> 142.580 -53.870 [187]
+  Adding match 188 ==> 188 -- 139.440 -53.370 ==> 139.440 -53.370 [188]
+  Adding match 189 ==> 189 -- 21.520 -53.480 ==> 21.520 -53.480 [189]
+  Adding match 190 ==> 190 -- 21.520 -53.480 ==> 21.520 -53.480 [190]
+  Adding match 191 ==> 191 -- 4.080 -53.450 ==> 4.080 -53.450 [191]
+  Adding match 192 ==> 192 -- -12.690 -53.350 ==> -12.690 -53.350 [192]
+  Adding match 193 ==> 193 -- 116.190 -52.490 ==> 116.190 -52.490 [193]
+  Adding match 194 ==> 194 -- 132.130 -52.130 ==> 132.130 -52.130 [194]
+  Adding match 195 ==> 195 -- -101.980 -50.960 ==> -101.980 -50.960 [195]
+  Adding match 196 ==> 196 -- -101.980 -50.960 ==> -101.980 -50.960 [196]
+  Adding match 197 ==> 197 -- -61.970 -50.330 ==> -61.970 -50.330 [197]
+  Adding match 198 ==> 198 -- -49.430 -50.030 ==> -49.430 -50.030 [198]
+  Adding match 199 ==> 199 -- 128.320 -49.540 ==> 128.320 -49.540 [199]
+  Adding match 200 ==> 200 -- 117.300 -49.630 ==> 117.300 -49.630 [200]
+  Adding match 201 ==> 201 -- 117.300 -49.630 ==> 117.300 -49.630 [201]
+  Adding match 202 ==> 202 -- -22.050 -49.560 ==> -22.050 -49.560 [202]
+  Adding match 203 ==> 203 -- 9.190 -42.290 ==> 9.190 -42.290 [203]
+  Adding match 204 ==> 204 -- -90.180 -42.380 ==> -90.180 -42.380 [204]
+  Adding match 205 ==> 205 -- -109.690 -42.960 ==> -109.690 -42.960 [205]
+  Adding match 206 ==> 206 -- -40.240 -42.070 ==> -40.240 -42.070 [206]
+  Adding match 207 ==> 207 -- -40.240 -42.070 ==> -40.240 -42.070 [207]
+  Adding match 208 ==> 208 -- -31.620 -41.080 ==> -31.620 -41.080 [208]
+  Adding match 209 ==> 209 -- 110.670 -37.520 ==> 110.670 -37.520 [209]
+  Adding match 210 ==> 210 -- -110.120 -34.490 ==> -110.120 -34.490 [210]
+  Adding match 211 ==> 211 -- -110.120 -34.490 ==> -110.120 -34.490 [211]
+  Adding match 212 ==> 212 -- -75.520 -33.060 ==> -75.520 -33.060 [212]
+  Adding match 213 ==> 213 -- 16.820 -31.620 ==> 16.820 -31.620 [213]
+  Adding match 214 ==> 214 -- 12.740 -27.100 ==> 12.740 -27.100 [214]
+  Adding match 215 ==> 215 -- 152.180 -25.840 ==> 152.180 -25.840 [215]
+  Adding match 216 ==> 216 -- 123.480 -26.170 ==> 123.480 -26.170 [216]
+  Adding match 217 ==> 217 -- 140.830 -24.530 ==> 140.830 -24.530 [217]
+  Adding match 218 ==> 218 -- 140.830 -24.530 ==> 140.830 -24.530 [218]
+  Adding match 219 ==> 219 -- 140.830 -24.530 ==> 140.830 -24.530 [219]
+  Adding match 220 ==> 220 -- 122.590 -20.400 ==> 122.590 -20.400 [220]
+  Adding match 221 ==> 221 -- -152.730 -20.350 ==> -152.730 -20.350 [221]
+  Adding match 222 ==> 222 -- -78.380 -20.220 ==> -78.380 -20.220 [222]
+  Adding match 223 ==> 223 -- -154.370 -17.950 ==> -154.370 -17.950 [223]
+  Adding match 224 ==> 224 -- -120.200 -12.630 ==> -120.200 -12.630 [224]
+  Adding match 225 ==> 225 -- -153.860 -12.570 ==> -153.860 -12.570 [225]
+  Adding match 226 ==> 226 -- -157.630 -6.640 ==> -157.630 -6.640 [226]
+  Adding match 227 ==> 227 -- -142.600 -5.660 ==> -142.600 -5.660 [227]
+  Adding match 228 ==> 228 -- -145.380 -4.770 ==> -145.380 -4.770 [228]
+  Adding match 229 ==> 229 -- 136.610 -1.440 ==> 136.610 -1.440 [229]
+  Adding match 230 ==> 230 -- 142.990 0.210 ==> 142.990 0.210 [230]
+  Adding match 231 ==> 231 -- -143.390 15.930 ==> -143.390 15.930 [231]
+  Adding match 232 ==> 232 -- -157.140 24.730 ==> -157.140 24.730 [232]
+  Adding match 233 ==> 233 -- -157.140 24.730 ==> -157.140 24.730 [233]
+  Adding match 234 ==> 234 -- -7.640 48.510 ==> -7.640 48.510 [234]
+  Adding match 235 ==> 235 -- 21.670 63.760 ==> 21.670 63.760 [235]
+[DumpOutputFile] Wrote file in 0.001s
+initial motstr-SBA error 2.30632e+07 [48862.7]
+mean reprojection error 16.4098
+
+damping term  71703.4, gain ratio 0.993895, errors  48862.7 /  300.841 = 162.42
+pdp_eL2: 141997.178, nvis: 472
+max_pct_change: 4.055e+00
+mean reprojection error 0.183914
+
+damping term  23901.1, gain ratio 0.999895, errors  300.841 / 0.0339312 = 8866.23
+pdp_eL2: 16.016, nvis: 472
+max_pct_change: 1.560e+00
+mean reprojection error 0.000296973
+
+damping term  7967.04, gain ratio        1, errors 0.0339312 / 7.91237e-07 = 42883.7
+pdp_eL2: 0.000, nvis: 472
+max_pct_change: 1.004e+00
+mean reprojection error 1.08284e-05
+
+damping term  2655.68, gain ratio 0.992346, errors 7.91237e-07 / 6.85259e-07 = 1.15465
+pdp_eL2: 0.000, nvis: 472
+max_pct_change: 0.000e+00
+mean reprojection error 2.69432e-08
+
+damping term  885.227, gain ratio 0.366523, errors 6.85259e-07 / 6.82962e-07 = 1.00336
+pdp_eL2: 0.000, nvis: 472
+max_pct_change: 0.000e+00
+[run_sfm] Number of iterations: 5
+info[6] = 8.000
+[RunSFM] run_sfm took 0.005s
+[RunSFM] Mean error cam 0[1] [236 pts]: 1.083e-05 [med: 1.071e-05, 8.000e+00]
+   E[3.191e-06--5.806e-06]: 31 [0.131]
+   E[5.806e-06--8.421e-06]: 38 [0.161]
+   E[8.421e-06--1.104e-05]: 66 [0.280]
+   E[1.104e-05--1.365e-05]: 59 [0.250]
+   E[1.365e-05--1.627e-05]: 21 [0.089]
+   E[1.627e-05--1.888e-05]: 3 [0.013]
+   E[1.888e-05--2.150e-05]: 8 [0.034]
+   E[2.150e-05--2.411e-05]: 4 [0.017]
+   E[2.411e-05--2.673e-05]: 4 [0.017]
+   E[2.673e-05--2.934e-05]: 2 [0.008]
+[RunSFM] Mean error cam 1[2] [236 pts]: 1.083e-05 [med: 1.071e-05, 8.000e+00]
+   E[3.191e-06--5.806e-06]: 31 [0.131]
+   E[5.806e-06--8.421e-06]: 38 [0.161]
+   E[8.421e-06--1.104e-05]: 66 [0.280]
+   E[1.104e-05--1.365e-05]: 59 [0.250]
+   E[1.365e-05--1.627e-05]: 21 [0.089]
+   E[1.627e-05--1.888e-05]: 3 [0.013]
+   E[1.888e-05--2.150e-05]: 8 [0.034]
+   E[2.150e-05--2.411e-05]: 4 [0.017]
+   E[2.411e-05--2.673e-05]: 4 [0.017]
+   E[2.673e-05--2.934e-05]: 2 [0.008]
+[RunSFM] Global mean reprojection error: 1.083e-05 (472 observations)
+[RunSFM] outlier removal took 0.000s
+[RunSFM] Removing 0 outliers
+  focal lengths: -569.354, -569.354
+[DumpOutputFile] Wrote file in 0.001s
+Error: parent not found
+[BundleAdjust] max_matches = 0
+[BundleAdjust] Bundle adjustment took 0.053s
+[DumpOutputFile] Wrote file in 0.001s
+[BaseApp::SetMatchesFromPoints] Setting up matches...
+[BaseApp::SetMatchesFromPoints] Done!

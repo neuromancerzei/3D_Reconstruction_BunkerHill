@@ -1,0 +1,8 @@
+/usr/bin/mogrify -format pgm ./monument001.jpg; ../../bin/sift < ./monument001.pgm > ./monument001.key; gzip -f ./monument001.key; rm ./monument001.pgm
+/usr/bin/mogrify -format pgm ./monument002.jpg; ../../bin/sift < ./monument002.pgm > ./monument002.key; gzip -f ./monument002.key; rm ./monument002.pgm
+/usr/bin/mogrify -format pgm ./monument003.jpg; ../../bin/sift < ./monument003.pgm > ./monument003.key; gzip -f ./monument003.key; rm ./monument003.pgm
+/usr/bin/mogrify -format pgm ./monument004.jpg; ../../bin/sift < ./monument004.pgm > ./monument004.key; gzip -f ./monument004.key; rm ./monument004.pgm
+/usr/bin/mogrify -format pgm ./monument005.jpg; ../../bin/sift < ./monument005.pgm > ./monument005.key; gzip -f ./monument005.key; rm ./monument005.pgm
+/usr/bin/mogrify -format pgm ./monument006.jpg; ../../bin/sift < ./monument006.pgm > ./monument006.key; gzip -f ./monument006.key; rm ./monument006.pgm
+/usr/bin/mogrify -format pgm ./monument007.jpg; ../../bin/sift < ./monument007.pgm > ./monument007.key; gzip -f ./monument007.key; rm ./monument007.pgm
+/usr/bin/mogrify -format pgm ./monument008.jpg; ../../bin/sift < ./monument008.pgm > ./monument008.key; gzip -f ./monument008.key; rm ./monument008.pgm
